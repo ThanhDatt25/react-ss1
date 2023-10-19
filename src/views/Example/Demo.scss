@@ -1,0 +1,42 @@
+
+
+.btn-show {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+.btn-hide {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 22px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}
+
+.btn-submit {
+    background-color: transparent; /* Green */
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 10px 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 50px;
+}

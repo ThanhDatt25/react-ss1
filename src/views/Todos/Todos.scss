@@ -1,0 +1,86 @@
+.list-to-do-container {
+    
+    .list-todo-content {
+        margin-top: 30px;
+
+        .submit-button {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            padding: 10px 22px;
+            margin-top: 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 50px;
+        }
+        
+        
+        
+        
+        .edit-button {
+            background-color: #4CAF50; /* Green */
+            border: none;
+            color: white;
+            padding: 2px 8px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 50px;
+            transition: ease-in-out 0.2s;
+            font-size: 15px;
+            margin: 10px 10px;
+        }
+        
+        .remove-button {
+            background-color: red; /* Green */
+            border: none;
+            color: white;
+            padding: 2px 8px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            border-radius: 50px;
+            transition: ease-in-out 0.2s;
+            font-size: 15px;
+        }
+    }
+
+}
+
+
+.add-todo {
+
+    margin-bottom: 20px;
+
+    button {
+        background-color: #4CAF50; /* Green */
+        border: none;
+        color: white;
+        padding: 10px 22px;
+        margin-top: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        border-radius: 50px;
+        transition: ease-in-out 0.2s;
+    }
+
+    button:hover {
+        background-color: gray;
+    }
+    .input {
+        background-color: white;
+        padding: 12px 22px;
+        outline: none;
+        margin-right: 10px;
+        margin-top: 40px;
+        border-radius: 20px;
+        border-style: none;
+        font-size: 12px;
+    }
+}
